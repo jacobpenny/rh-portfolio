@@ -35,6 +35,3 @@ fields:
     - Nichlas W. Andersen
   label: Author
   default: Nichlas W. Andersen
-pages:
-- journal/blah.md
-- journal/macos-development-environment.md
